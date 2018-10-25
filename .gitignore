@@ -1,0 +1,9 @@
+# Eclipse files
+.classpath
+.project
+
+# Binary files
+bin/
+
+# macOS files
+.DS_Store
